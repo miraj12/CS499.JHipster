@@ -1,4 +1,13 @@
-# myApp
+
+## Entities/Relationships
+<img src="https://cloud.githubusercontent.com/assets/13294462/22624967/f6eb99ee-eb3e-11e6-88df-5e1ace34c2bd.png" width="500" height="300" />
+ * A user can have multiple blogs.
+ * A blog can contain multiple entries.
+ * Entries can contain may tags.
+ 
+
+
+---
 
 This application was generated using JHipster 3.12.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v3.12.2](https://jhipster.github.io/documentation-archive/v3.12.2).
 
